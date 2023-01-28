@@ -1,0 +1,22 @@
+        *Actividad 1*
+.- Indique en un archivo de texto (.txt) una pagina web de su escogencia que utilice javascript, describa en lo que puede notar el uso de javascript en dicho sitio.
+Pägina de escogencia: HBO Max
+https://play.hbomax.com/page/urn:hbo:page:home
+
+Bueno en la pagina de inicio de HBO veo que se usa mucho JS, primero en la pantalla principal apeanas inicias sesion se ve una transicion de las peliculas
+y series recientemente hechas. Muy similar a el inicio de la pagina de Cadif
+
+Mas abajo tambien estan las peliculas que estabas viendo o recientemente entraste, tambien eso llevara JS para interpretar la logica de el historial del usuario
+
+Abajo de eso justamente esta las peliculas y series que tienes en tu lista, series que las marcaste como favoritos y al igual que la cualidad anterior me imagino que 
+esos datos vendran de una base de datos cuando el usuario le da click a cierta pelicula 
+
+Si te quedas con el mouse (hoover llamado en CSS segun tengo entendido) hay una pequeña animacion de unos pequeños fragmentos de la pelicula, esa logica me imagino
+que estara hecha con JS y con la funcion de transicion en CSS (la cual segun tengo entendido tambien tiene JS)
+
+En el nav o header de la pagina tambien tenemos elementos de Js principalmente unas 3 rallas que al momento de que el usuario interactua desplega el catalogo de los
+generos de peliculas y ese tipo de cosas. Asimismo hay una lupa que supongo que sera un buttom en Html que cuando el usuario presiona sobre el despliega un menu de busqueda
+lo cual tambien es interesante. y finalmente si estas Logueado ahi te aparecera el nombre de tu usuario con su respectiva foto, que si le presionas te dara opcciones
+como cerrar sesion, cambiar de perfil o ajustes en la cuenta. Lo cual tambien me parece muy cool
+
+Link de este repo: https://github.com/CH19/Challenge1JS.git
